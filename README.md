@@ -14,8 +14,6 @@ Atualmente, trabalho na área de **Planejamento, Gestão e Controle (PGC)** da B
 
 ---
 
-### 🧠 Tecnologias e Linguagens
-
 <!-- Use devicon.dev para ícones -->
 ### 🤖 Linguagens e Tecnologias 
 <!-- Utilizar o devicon.dev para pegar o icone das linguagens --> 
