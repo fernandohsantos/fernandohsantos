@@ -52,7 +52,7 @@ Me chamo Fernando Hnrique dos Santos, sou estudande de doutorado em engenharia e
 
 Classificação de Sinais Caóticos com MLPs
 
-O \textit{white Gaussian chaos} (WGC) é um mapa que gera sinais caóticos com a mesma densidade espectral de potência e densidade invariante de uma função-amostra de um ruído branco gaussiano (\textit{white Gaussian noise} - WGN) \cite{eisencraft_monteiro_soriano_2017}. No entanto, ao contrário do sinal WGN que é um processo estocástico obtido a partir de amostras Gaussianas independentes, os sinais gerados pelo WGC são de natureza determinística. Na Figura \ref{fig:figura1} são apresentadas as evoluções dos sinais WGC e WGN, acompanhadas de suas densidades de probabilidade e medidas de autocorrelação. Conclui-se que quaisquer uma dessas medidas são insuficientes para classificar um sinal em WGC ou WGN.
+O _white Gaussian chaos_ (WGC) é um mapa que gera sinais caóticos com a mesma densidade espectral de potência e densidade invariante de uma função-amostra de um ruído branco gaussiano (_white Gaussian noise_) - WGN) [referência](https://ieeexplore.ieee.org/document/7916899). No entanto, ao contrário do sinal WGN que é um processo estocástico obtido a partir de amostras Gaussianas independentes, os sinais gerados pelo WGC são de natureza determinística. Na Figura \ref{fig:figura1} são apresentadas as evoluções dos sinais WGC e WGN, acompanhadas de suas densidades de probabilidade e medidas de autocorrelação. Conclui-se que quaisquer uma dessas medidas são insuficientes para classificar um sinal em WGC ou WGN.
 
 <br/>
 <br/>
