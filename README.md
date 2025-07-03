@@ -56,6 +56,7 @@ Para maiores detalhes da minha carreira acadêmica, ver:
 
 <br/>
 <br/>
+
 ---
 
 ### 📊 Projetos em Destaque
