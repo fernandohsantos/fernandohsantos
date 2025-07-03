@@ -2,13 +2,15 @@
 
 **`PhD Student | Data Scientist | Financial Analyst`**
 
-Olá! Sou Fernando Henrique dos Santos, doutorando em Engenharia Elétrica pela Escola Politécnica da Universidade de São Paulo (Poli-USP), mestre em Engenharia da Informação pela UFABC e bacharel em Física pelo IFUSP. Desde 2011 atuo no mercado financeiro, com experiência em:
+Olá! Sou Fernando Henrique dos Santos, doutorando em engenharia elétrica pela Escola Politécnica da Universidade de São Paulo (Poli-USP), mestre em engenharia da informação pela Universidade Federal do ABC (UFABC) e licenciado em física pela USP (IFUSP). Desde 2011 atuo no mercado financeiro, com experiência em:
 
-- Análise de ações e derivativos
+- Ciência de dados
 - Planejamento estratégico e controle
 - Risco operacional e crédito
+- Análise de ações e derivativos
 
-Atualmente, trabalho na área de **Planejamento, Gestão e Controle (PGC)** da Bradesco Seguros, desenvolvendo **modelos orçamentários** e realizando **estudos financeiros e preditivos** com dados.
+Atualmente, trabalho na área de **Planejamento, Gestão e Controle (PGC)** da Bradesco Seguros, com ciência de dados voltada a criação de **modelos orçamentários, análise de corretores e projeção de vendas**.
+Para maiores detalhes da minha carreira acadêmica, ver:
 
 📄 [Currículo Lattes](http://lattes.cnpq.br/3860891094876085)
 
@@ -60,12 +62,12 @@ Atualmente, trabalho na área de **Planejamento, Gestão e Controle (PGC)** da B
 
 #### 🔹 Classificação de Sinais Caóticos com MLPs
 
-Este projeto explora a distinção entre dois tipos de sinais: **White Gaussian Chaos (WGC)** e **White Gaussian Noise (WGN)**. Ambos compartilham características espectrais semelhantes, como **densidade espectral de potência plana**, mas possuem **naturezas distintas**:
+Este projeto explora a classificação entre dois tipos de sinais: **White Gaussian Chaos (WGC)** e **White Gaussian Noise (WGN)**. Ambos compartilham as mesmas características estatísticas, possuem a densidade espectral de potência, mas possuem **naturezas distintas**:
 
 - **WGN**: processo estocástico, com amostras Gaussianas independentes.
 - **WGC**: processo determinístico gerado por mapas caóticos com aparência de ruído branco.
 
-O objetivo é aplicar **redes neurais MLP** para classificar esses sinais com alta acurácia, mesmo em condições de baixa relação sinal-ruído (SNR).
+O objetivo é aplicar redes neurais (rasas e profundas) para classificar esses sinais com alta acurácia, mesmo em condições de baixa relação sinal-ruído (SNR).
 
 📌 [Referência do artigo](https://ieeexplore.ieee.org/document/7916899)
 
