@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Fernando Santos
+# Fernando Santos
 
 **`PhD Student | Data Scientist | Financial Analyst`**
 
