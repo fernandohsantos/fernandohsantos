@@ -76,6 +76,6 @@ O objetivo é aplicar redes neurais (rasas e profundas) para classificar esses s
 
 ### 📬 Contato
 
-- 📧 Email: [seuemail@email.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 Email: [fernando.ecofis@email.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando-h-santos/)
 - 🧠 [Lattes](http://lattes.cnpq.br/3860891094876085)
