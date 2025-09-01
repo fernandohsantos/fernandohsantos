@@ -71,6 +71,8 @@ Keywords – chaotic signals, recurrence plots, time series analysis.
 
 📌 [Article reference](https://proceedings.sbmac.emnuvens.com.br/sbmac/article/view/4803)
 
+[Code](https://github.com/fernandohsantos/RecurrencePlot/blob/main/README.md)
+
 ---
 
 #### 🔹Phase Synchronization in Chaotic Oscillators for Information Transmission
