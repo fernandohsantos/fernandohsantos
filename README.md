@@ -51,7 +51,7 @@ Data Scientist with over 10 years of experience in the financial sector, working
 
 ---
 
-### 📊 Projects
+### 📊 Publications
 
 #### 🔹 Classification of WGC and WGN Signals 
 
