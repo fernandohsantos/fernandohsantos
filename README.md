@@ -67,7 +67,7 @@ Abstract - The white Gaussian chaos (WGC) is a map that generates chaotic signal
 
 Keywords - discrete-time signals, chaos, neural networks.
 
-📌 [Article reference]((https://biblioteca.sbrt.org.br/articlefile/3670.pdf))
+📌 [Article reference](https://biblioteca.sbrt.org.br/articlefile/3670.pdf)
 
 ---
 
