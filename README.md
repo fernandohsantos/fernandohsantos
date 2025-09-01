@@ -75,8 +75,7 @@ Keywords – chaotic signals, recurrence plots, time series analysis.
 
 #### 🔹Phase Synchronization in Chaotic Oscillators for Information Transmission
 
-📌 [Article reference](https://www.researchgate.net/publication/321950664)
-📌 [Article reference](https://www.researchgate.net/publication/321951164)
+📌 [Article reference](https://www.researchgate.net/publication/321950664) | 📌 [Article reference](https://www.researchgate.net/publication/321951164)
 ---
 
 - 📧 Email: [fernando.ecofis@email.com]
