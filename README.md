@@ -61,6 +61,8 @@ Keywords - discrete-time signals, chaos, neural networks.
 
 📌 [Article reference](https://biblioteca.sbrt.org.br/articlefile/3670.pdf)
 
+💻 [Code repository](https://github.com/fernandohsantos/classificacao-sinais-caoticos)
+
 ---
 
 #### 🔹 Separation of a Class of Chaotic and Random Signals Using Recurrence Plots
@@ -71,7 +73,7 @@ Keywords – chaotic signals, recurrence plots, time series analysis.
 
 📌 [Article reference](https://proceedings.sbmac.emnuvens.com.br/sbmac/article/view/4803)
 
-[Code](https://github.com/fernandohsantos/RecurrencePlot/blob/main/README.md)
+💻 [Code repository](https://github.com/fernandohsantos/RecurrencePlot/blob/main/README.md)
 
 ---
 
