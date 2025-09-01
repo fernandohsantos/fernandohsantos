@@ -75,7 +75,11 @@ Keywords – chaotic signals, recurrence plots, time series analysis.
 
 #### 🔹Phase Synchronization in Chaotic Oscillators for Information Transmission
 
-📌 [Article reference](https://www.researchgate.net/publication/321950664) | 📌 [Article reference](https://www.researchgate.net/publication/321951164)
+Abstract – This work investigates the feasibility of transmitting binary sequences through phase synchronization between two coupled Rössler oscillators in a master–slave configuration. The instantaneous phase of the chaotic signals is obtained using the Hilbert transform, enabling the detection of synchronized and desynchronized states. Binary information is encoded by modulating system parameters, where synchronization represents bit “0” and desynchronization represents bit “1”. Simulation results demonstrate that sequences of up to 10⁴ bits can be transmitted and accurately recovered without errors. These findings suggest that phase synchronization may provide a more robust alternative to complete synchronization in chaotic communication systems.
+
+Keywords – chaos, phase synchronization, coupled oscillators, communications.
+
+📌 [Article reference](https://www.researchgate.net/publication/321951164_Sincronismo_de_fase_em_osciladores_caoticos_para_transmissao_de_informacao)
 ---
 
 - 📧 Email: [fernando.ecofis@email.com]
