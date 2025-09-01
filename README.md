@@ -79,7 +79,8 @@ Abstract – This work investigates the feasibility of transmitting binary seque
 
 Keywords – chaos, phase synchronization, coupled oscillators, communications.
 
-📌 [Article reference](https://www.researchgate.net/publication/321951164_Sincronismo_de_fase_em_osciladores_caoticos_para_transmissao_de_informacao)
+📌 [Article reference](<https://www.researchgate.net/publication/321951164_Sincronismo_de_fase_em_osciladores_caoticos_para_transmissao_de_informacao>)
+
 ---
 
 - 📧 Email: [fernando.ecofis@email.com]
