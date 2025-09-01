@@ -2,22 +2,14 @@
 
 **`PhD Student | Data Scientist | Financial Analyst`**
 
-Olá! Sou Fernando Henrique dos Santos, doutorando em engenharia elétrica pela Escola Politécnica da Universidade de São Paulo (Poli-USP), mestre em engenharia da informação pela Universidade Federal do ABC (UFABC) e licenciado em física pela USP (IFUSP). Desde 2011 atuo no mercado financeiro, com experiência em:
-
-- Ciência de dados
-- Planejamento estratégico e controle
-- Risco operacional e crédito
-- Análise de ações e derivativos
-
-Atualmente, trabalho na área de **Planejamento, Gestão e Controle (PGC)** da Bradesco Seguros, com ciência de dados voltada a criação de **modelos orçamentários, análise de corretores e projeção de vendas**.
-Para maiores detalhes da minha carreira acadêmica, ver:
+Data Scientist with over 10 years of experience in the financial sector, working in strategic planning, commercial management, and data-driven solution development. Expertise in designing and monitoring KPIs, process and reporting automation, as well as statistical modeling applied to forecasting and sales force clustering. Strong experience with Python, Excel, and SQL, with additional knowledge of SAS and R. Proven track record of delivering analyses that support strategic decision-making at the executive level. Currently working as a Data Scientist in the insurance industry and pursuing a Ph.D. in Electrical Engineering at the University of São Paulo (USP), with research focused on signal processing and artificial intelligence.
 
 📄 [Currículo Lattes](http://lattes.cnpq.br/3860891094876085)
 
 ---
 
 <!-- Use devicon.dev para ícones -->
-### 🤖 Linguagens e Tecnologias 
+### 🤖 Technologies
 <!-- Utilizar o devicon.dev para pegar o icone das linguagens --> 
 <img 
     align="left" 
@@ -29,20 +21,20 @@ Para maiores detalhes da minha carreira acadêmica, ver:
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="SQL Server" 
     title="SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
           
 <img 
